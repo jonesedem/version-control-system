@@ -9,13 +9,13 @@ Tools i have installed
 
 1. Installation of Visual studio code (VScode)
 <p align="center">
-<img src="https://imgur.com/j7n8op0.png" height="85%" width="85%" alt="Visual studio code"/>
+<img src="https://imgur.com/FJ3q2Ba.png" height="85%" width="85%" alt="Visual studio code"/>
 </p>
    
 2. Git installation
 
  <p align="center">
-<img src="https://imgur.com/cWu5OMb.png" height="85%" width="85%" alt="Git installation"/>
+<img src="https://imgur.com/2AKdAR0.png" height="85%" width="85%" alt="Git installation"/>
 </p>
 
 3. Git GUI
