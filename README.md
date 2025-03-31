@@ -43,7 +43,7 @@ I create a pull request (PR) for the branch update-navigation to tell the team t
 1. index.html file on Github account
 
 <p align="center">
-<img src="https://imgur.com/Ls62jgp.png" height="85%" width="85%" alt="Github account"/>
+<img src="https://imgur.com/VkTfz94.png" height="85%" width="85%" alt="Github account"/>
 </p>
 
 
