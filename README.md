@@ -15,7 +15,9 @@ I create a pull request (PR) for the branch update-navigation to tell the team t
 <p align="center">
 <img src="https://imgur.com/Ls62jgp.png" height="85%" width="85%" alt="Visual studio code"/>
 </p>
-   
+
+   ![Screenshot 2025-03-31 162844](https://github.com/user-attachments/assets/efc43960-7500-46dc-9e44-c546b3a26b85)
+
 2. clone on git
 
  <p align="center">
