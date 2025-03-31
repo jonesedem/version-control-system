@@ -11,42 +11,28 @@ I create a pull request (PR) for the branch update-navigation to tell the team t
 ## See screen shots below:
 
 
-1. sample page
-<p align="center">
-<img src="https://imgur.com/Ls62jgp.png" height="85%" width="85%" alt="Visual studio code"/>
-</p>
+1. Git commands 
 
    ![Screenshot 2025-03-31 162844](https://github.com/user-attachments/assets/efc43960-7500-46dc-9e44-c546b3a26b85)
 
-2. clone on git
-
- <p align="center">
-<img src="https://imgur.com/RBPBTDg.png" height="85%" width="85%" alt="Git installation"/>
-</p>
-
-3. add index.html
-   
- <p align="center">
-<img src="https://imgur.com/v3GOaHx.png" height="85%" width="85%" alt="Git GUI"/>
-</p>
+   ![Screenshot 2025-03-31 163313](https://github.com/user-attachments/assets/77b4a811-37f5-4863-bf28-8d20c1d9c0fe)
 
 
-4. work on file
-<p align="center">
-<img src="https://imgur.com/ofsj5IN.png" height="85%" width="85%" alt="Virtual box manager"/>
-</p>
+2. Github repo actions
+
+   ![Screenshot 2025-03-31 163706](https://github.com/user-attachments/assets/4b455623-8b27-4c0f-9759-7f8304592b12)
 
 
-5. push to github
-<p align="center">
-<img src="https://imgur.com/vje80W8.png" height="85%" width="85%" alt="Ubuntu on Virtual box"/>
-</p>
+   ![Screenshot 2025-03-31 163943](https://github.com/user-attachments/assets/f612a1ee-0cd2-48bd-9bd1-65ba5b098076)
 
-1. index.html file on Github account
+![Screenshot 2025-03-31 164041](https://github.com/user-attachments/assets/46687670-8879-4b33-8f5e-855822705bec)
 
-<p align="center">
-<img src="https://imgur.com/VkTfz94.png" height="85%" width="85%" alt="Github account"/>
-</p>
+![Screenshot 2025-03-31 164456](https://github.com/user-attachments/assets/358d300e-1255-4379-bfbb-71a21d202441)
+
+![Screenshot 2025-03-31 164526](https://github.com/user-attachments/assets/53bc0c04-4c68-43bd-a31f-9e7cf778d71a)
 
 
 
+
+
+ 
