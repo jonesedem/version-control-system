@@ -1,51 +1,50 @@
-# DevOps-Tech-Environment-Setup
-This repo showcases the first mini project in module 1 of DevOps learning track under  3MTT cohort 3.
+# DevOps _ Version Control System
+This repo showcases the second mini project in module 1 of DevOps learning track under  3MTT cohort 3.
 
-# DEVOPS MINI PROJECT 1
+# DEVOPS MINI PROJECT 2
 
-## Tech environment setup
+I  cloned a project repository from a central repository – GitHub to my local machine. 
+I created the branches update-navigation and add-contact-info. 
+I updated the navigation bar in index.html and added contact information to the footer of the same file. I pushed the branches to the central repository. 
+I create a pull request (PR) for the branch update-navigation to tell the team that I am done and the code is ready to be reviewed and merged into the main project and update the index.html file on the main project line. 
 
-Tools i have installed
+## See screen shots below:
 
-1. Installation of Visual studio code (VScode)
+
+1. sample page
 <p align="center">
-<img src="https://imgur.com/FJ3q2Ba.png" height="85%" width="85%" alt="Visual studio code"/>
+<img src="https://imgur.com/Ls62jgp.png" height="85%" width="85%" alt="Visual studio code"/>
 </p>
    
-2. Git installation
+2. clone on git
 
  <p align="center">
-<img src="https://imgur.com/2AKdAR0.png" height="85%" width="85%" alt="Git installation"/>
+<img src="https://imgur.com/RBPBTDg.png" height="85%" width="85%" alt="Git installation"/>
 </p>
 
-3. Git GUI
+3. add index.html
    
  <p align="center">
-<img src="https://imgur.com/9gjVPWg.png" height="85%" width="85%" alt="Git GUI"/>
+<img src="https://imgur.com/v3GOaHx.png" height="85%" width="85%" alt="Git GUI"/>
 </p>
 
 
-4. Virtual box manager
+4. work on file
 <p align="center">
-<img src="https://imgur.com/5Ua2R3R.png" height="85%" width="85%" alt="Virtual box manager"/>
+<img src="https://imgur.com/ofsj5IN.png" height="85%" width="85%" alt="Virtual box manager"/>
 </p>
 
 
-5. Ubuntu on Virtual box
+5. push to github
 <p align="center">
-<img src="https://imgur.com/VDYXDth.png" height="85%" width="85%" alt="Ubuntu on Virtual box"/>
+<img src="https://imgur.com/vje80W8.png" height="85%" width="85%" alt="Ubuntu on Virtual box"/>
 </p>
 
-## Accounts i have created
-1. Github account
-
-<p align="center">
-<img src="https://imgur.com/css5Sgv.png" height="85%" width="85%" alt="Github account"/>
-</p>
-
-2. Amazon Web Services (AWS) Account.
+1. index.html file on Github account
 
 <p align="center">
-<img src="https://imgur.com/6yBkyeE.png" height="85%" width="85%" alt="AWS Account"/>
+<img src="https://imgur.com/Ls62jgp.png" height="85%" width="85%" alt="Github account"/>
 </p>
+
+
 
